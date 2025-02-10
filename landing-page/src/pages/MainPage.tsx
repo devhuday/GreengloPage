@@ -5,6 +5,7 @@ import { HeroSection } from "@/components/Home/HeroSection";
 import { BenefitsSection } from "@/components/Home/BenefitsSection";
 import { TestimonialsSection } from "@/components/Home/TestimonialsSection";
 import { theme } from "@/styles/theme";
+import ImageOverlay from "@/components/Home/ImagenCard";
 
 const { Content, Footer } = Layout;
 
